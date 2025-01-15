@@ -44,7 +44,7 @@ export const ImageGridLarge: React.FC<ImageGridLargeProps> = ({
                   fill
                   sizes="(max-width: 768px) 50vw, 33vw"
                   priority
-                  className="rounded-lg object-cover"
+                  className="rounded-lg object-contain bg-gray-100"
                 />
               </a>
             ) : (
@@ -54,7 +54,7 @@ export const ImageGridLarge: React.FC<ImageGridLargeProps> = ({
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
                 priority
-                className="rounded-lg object-cover"
+                className="rounded-lg object-contain bg-gray-100"
               />
             )}
             <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-75 text-white p-4 rounded-b-lg hidden sm:block">
