@@ -2,9 +2,9 @@ export const metaData = {
   baseUrl: "https://nextfolio-template.vercel.app/",
   title: "MR",
   name: "Sirius",
-  ogImage: "/opengraph-image.png",
+  ogImage: "/mahfuz.jpg",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "Mohammad Mahfuzur Rahman is a international politics enthusiast. He is a student of Jahangirnagar University, Savar, Bangladesh. He is a writer, thinker, and a social worker.",
 };
 
 export const socialLinks = {
