@@ -17,7 +17,7 @@ export default function Page() {
         <h1 className="mb-1 text-3xl font-medium tracking-tight">
           Mohammad Mahfuzur Rahman
         </h1>
-        <h4>International Geopolitics Enthusiast</h4>
+        <h4>Geopolitics Enthusiast</h4>
       </div>
 
       <div className="prose prose-neutral dark:prose-invert text-justify">
