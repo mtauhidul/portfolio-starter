@@ -3,11 +3,11 @@ import { metaData } from "../config";
 import { ThemeSwitch } from "./theme-switch";
 
 const navItems = {
-  "/photography": { name: "Photography" },
-  "/activities": { name: "Activities" },
   "/academicEngagement": { name: "Academic" },
   "/workshops": { name: "Workshops" },
   "/cocurricular": { name: "Co-Curricular" },
+  "/activities": { name: "Activism" },
+  "/photography": { name: "Photography" },
 };
 
 export function Navbar() {

@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import Data from "../../public/data.json";
 
 export const metadata: Metadata = {
-  title: "Photos",
-  description: "My Photos",
+  title: "Co-Curricular",
+  description: "Co-Curricular",
 };
 
 export default function CoCurricular() {
